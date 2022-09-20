@@ -12,7 +12,7 @@
 
  let new_rev=reverse(str)
   if(new_rev==sum){
-    console.log("Yes")
+    console.log("Palindrome")
   }else{
-    console.log("No")
+    console.log("Not Palindrome")
   }
