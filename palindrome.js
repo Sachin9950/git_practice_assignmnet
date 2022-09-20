@@ -1,5 +1,5 @@
 
- function reverse(str){
+ function  Palindromereverse(str){
  
   let sum=""
 
@@ -12,7 +12,7 @@
 
  let new_rev=reverse(str)
   if(new_rev==sum){
-    console.log("Palindrome")
+
+    console.log("Yes Palinfrome")
   }else{
-    console.log("Not Palindrome")
-  }
+    console.log("No Not Palindrome")
